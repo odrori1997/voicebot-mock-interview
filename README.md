@@ -1,3 +1,12 @@
+# TODO
+1/ Add tool call to do research while calling -- https://docs.bland.ai/tutorials/custom-tools#custom-tool-example
+2/ Add pleasantries at the beginning of the call
+3/ Cover more topics in the interview so it lasts longer
+4/ Add content creation prompts to the transcript (and remove the diarization)
+
+
+
+
  # AI-Powered Phone Conversation Bot
 
 This application allows users to practice mock interviews or engage in various AI-driven conversations over the phone. It utilizes Flask as the backend framework and a third-party API for handling phone calls and voice interactions.
